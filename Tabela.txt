@@ -1,12 +1,12 @@
 
 [Youtubers]
-David
-Jogador123
+ryanshwzz
+Davizinhoseabr
 
 [VIP]
-David
-JogadorVIP
+ryanshwzz
+Davizinhoseabr
 
 [Developers]
-David
-Developer123
+ryanshwzz
+Davizinhoseabr
